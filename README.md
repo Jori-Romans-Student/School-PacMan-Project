@@ -4,9 +4,7 @@ README
 NAME AND INFORMATION
 
 
-Jori Romans, 1424535
-
-Section LBL EA2
+Jori Romans
 
 Final Project "PacMan"
 
